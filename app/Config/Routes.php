@@ -14,4 +14,5 @@ $routes->get('users/usuarios3', 'UserController::usuarios3');
 $routes->get('posts/01', 'PostController::ejercicio01');
 // ...
 $routes->get('posts/05', 'PostController::ejercicio05');
-
+$routes->get('posts/06', 'PostController::ejercicio06');
+$routes->get('posts/07', 'PostController::ejercicio07');
